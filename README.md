@@ -6,7 +6,7 @@ known issue with the 426 resource error, stems from newAPI being used
 ->either remove api support for blogs or host elsewhere
 
 
-issue with github accepting login system
+issue with github accepting login system and parsing info to dashboard page
 
 
 
